@@ -9,5 +9,5 @@ numB = 3
 sumAdd = numA + numB
 
 "output"
-print ('should be 5') #output test
-print ('sumAdd is',sumAdd) #output result
+print ('should be 5')       # output unit test
+print ('sumAdd is',sumAdd)  # output result
